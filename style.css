@@ -1,0 +1,36 @@
+body{
+    font-family: 'Moon Dance', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.color-item{
+    color: brown;
+}
+.border-link{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,red);
+    border-image-slice: 1;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,red);
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    margin: 50px;
+}
+.half-width img{
+    width: 50%;
+}
+#dis-block{
+    display: block;
+    margin-top: 50px;
+}
+
