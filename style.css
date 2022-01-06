@@ -20,8 +20,9 @@ font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: white;
 }
-section{
+.flexable-link{
     display: flex;
+    margin-bottom: 40px;
     
 }
 .half-width{
@@ -34,5 +35,41 @@ section{
 #dis-block{
     display: block;
     margin-top: 50px;
+}
+#mission-in{
+    text-align: center;
+}
+.experiment-item{
+    width: 40%;
+    box-shadow: 5px 5px gray;
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 40px;
+    border-top: 100px;
+}
+#bg-1{
+    background-color: burlywood;
+}
+#bg-2{
+    background-color: cadetblue;
+}
+#bg-3{
+    background-color: coral;
+}
+footer p{
+    text-align: center;
+}
+#mission-1{
+    text-align: center;
+    color:blue;
+}
+#back-img{
+    background-color: cyan;
+}
+#banner-1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10%;
 }
 
