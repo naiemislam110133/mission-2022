@@ -6,9 +6,11 @@ font-family: 'Poppins', sans-serif;
     color: brown;
 }
 .border-link{
-    border-left: 7px solid;
+    border-left: 5px solid;
     border-image: linear-gradient(orange,red);
     border-image-slice: 1;
+    font-weight:2em;
+    border-radius: 40px;
 }
 .link-button{
     text-decoration: none;
